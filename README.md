@@ -109,7 +109,7 @@ If you use this repository in your work, please cite
 @article{Ampiah2026Hierarchical,
   title={Hierarchical Detection of Neonatal Brain Pathologies Using a Two-Stage Deep Learning Framework from Magnetic Resonance Imaging},
   author={Ampiah, Christian Ahwoi and Malala, Tina and Crimi, Alessandro},
-  journal={Biomedical Signal Processing and Control},
+  journal={},
   year={2026}
 }
 ```

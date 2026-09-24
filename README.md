@@ -99,6 +99,8 @@ checkpoint = hf_hub_download(
 )
 ```
 
+As a baseline without different stage classifier is given in the notebook: myelin_4class_classifier.ipynb
+
 ---
   
 ## Citation
